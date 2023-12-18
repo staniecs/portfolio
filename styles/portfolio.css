@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  margin-bottom: 20px;
+}
+
+.hero {
+  padding: 70px 70px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.intro {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 30px 20px;
+  border-radius: 10px;
+  color: white;
+}
+
+.btn-branded {
+  background-color: black;
+  color: white;
+}
+
+.intro-images img {
+  width: 100%;
+  height: auto;
+}
