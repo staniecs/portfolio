@@ -3,6 +3,16 @@ body {
   margin-bottom: 20px;
 }
 
+h1 {
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 60px;
+}
+
+h2 {
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 24px;
+}
+
 .hero {
   padding: 70px 70px;
   display: block;
@@ -22,7 +32,11 @@ body {
   color: white;
 }
 
-.intro-images img {
-  width: 100%;
+.intro-images {
+  margin: 30px;
+}
+
+.image-container img {
+  max-width: 100%;
   height: auto;
 }
