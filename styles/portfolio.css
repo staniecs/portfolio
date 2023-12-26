@@ -20,15 +20,15 @@ h2 {
   text-align: center;
 }
 
-.about-section {
+.content-container {
   padding: 30px 20px;
   border-radius: 10px;
   color: white;
   display: block;
-  margin: 0 30px 0 30px;
+  margin: 0 auto;
 }
 
-.about-section img {
+.content-container img {
   border-radius: 10px;
   max-width: 400px;
   display: block;
@@ -95,5 +95,9 @@ footer {
   }
   .intro-images {
     margin-top: 0;
+  }
+
+  .content-container {
+    text-align: center;
   }
 }
