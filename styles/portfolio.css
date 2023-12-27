@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  margin: 0 auto;
   margin-bottom: 30px;
 }
 
@@ -81,6 +82,9 @@ footer {
 
 .icon-container a:hover {
   opacity: 1;
+}
+a {
+  color: white;
 }
 
 @media (max-width: 768px) {
